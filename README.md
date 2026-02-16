@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Kotlin Multiplatform on Android Studio<br><br>🏫 I'm currently studying criminology & Criminal Justice / Psychology<br><br>🥼 I'm interested in biochemical engineering & marine science
+🌱 I’m currently learning Kotlin Multiplatform on Android Studio<br><br>🏫 I'm currently studying criminology & Criminal Justice / Psychology<br><br>🥼 I'm interested in ecology & marine science
 
 
 ## 🌐 Socials:
