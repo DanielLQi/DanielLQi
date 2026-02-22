@@ -16,6 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=daniellqi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DanielLQi&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=DanielLQi&theme=dark&combine_all_yearly_contributions=true)<br>
+<sub>Ranks are S+ (over 10000), S (over 1000), A+ (over 500), A (over 100), B+ (over 50) and B (over 1).</sub>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
